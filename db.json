@@ -2,34 +2,7 @@
   "orders": [
     {
       "userId": "1",
-      "client": "me",
-      "products": [
-        {
-          "id": 6,
-          "name": "Hamburguer simples",
-          "price": 10,
-          "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/hb-duplo.png",
-          "type": "Almuerzo",
-          "dateEntry": "2022-03-05 15:14:10",
-          "quantidade": 1
-        },
-        {
-          "id": 3,
-          "name": "Café americano",
-          "price": 5,
-          "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-          "type": "Desayuno",
-          "dateEntry": "2022-03-05 15:14:10",
-          "quantidade": 1
-        }
-      ],
-      "status": "pendente",
-      "dateEntry": "2023-06-07T20:40:00.644Z",
-      "id": 3
-    },
-    {
-      "userId": "1",
-      "client": "me",
+      "client": "Talita",
       "products": [
         {
           "id": 4,
@@ -53,6 +26,96 @@
       "status": "pendente",
       "dateEntry": "2023-06-07T20:42:23.406Z",
       "id": 4
+    },
+    {
+      "userId": "1",
+      "client": "Giselle",
+      "products": [
+        {
+          "id": 5,
+          "name": "Suco de fruta natural",
+          "price": 7,
+          "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/suco.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 1
+        },
+        {
+          "id": 3,
+          "name": "Café americano",
+          "price": 5,
+          "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 1
+        },
+        {
+          "id": 2,
+          "name": "Coxinha de jaca",
+          "price": 5,
+          "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/coxinha.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 2
+        },
+        {
+          "id": 1,
+          "name": "Sanduíche de queijo",
+          "price": 10,
+          "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 2
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-12T16:39:34.889Z",
+      "id": 5
+    },
+    {
+      "userId": "1",
+      "client": "melina",
+      "products": [
+        {
+          "id": 1,
+          "name": "Sanduíche de queijo",
+          "price": 10,
+          "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 1
+        },
+        {
+          "id": 3,
+          "name": "Café americano",
+          "price": 5,
+          "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 2
+        },
+        {
+          "id": 2,
+          "name": "Coxinha de jaca",
+          "price": 5,
+          "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/coxinha.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 1
+        },
+        {
+          "id": 5,
+          "name": "Suco de fruta natural",
+          "price": 7,
+          "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/suco.png",
+          "type": "Desayuno",
+          "dateEntry": "2022-03-05 15:14:10",
+          "quantidade": 1
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "2023-06-12T16:40:15.944Z",
+      "id": 6
     }
   ],
   "products": [
