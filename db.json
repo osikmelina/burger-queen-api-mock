@@ -242,6 +242,24 @@
       "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 3
+    },
+    {
+      "email": "atendimento@plantburguer.com",
+      "password": "$2a$10$u7HG0nlRRQRN4qY3DvG3su4CLPILCQm4O0RcmXHQ5bx.zpXukrscm",
+      "role": "atendimento",
+      "id": 4
+    },
+    {
+      "email": "cozinha@plantburguer.com",
+      "password": "$2a$10$nRpGzhHpYaGpg4ZSqV2Gx.INNahNeeDwKVMAfxC3SWyRqehAhktsm",
+      "role": "cozinha",
+      "id": 5
+    },
+    {
+      "email": "admin@plantburguer.com",
+      "password": "$2a$10$FkekOJF3A0uz3IcDmx9YUOIPIzl60mtEixsajfj/9JL./hOQ0pYdS",
+      "role": "admin",
+      "id": 6
     }
   ]
 }
