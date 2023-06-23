@@ -226,36 +226,42 @@
   ],
   "users": [
     {
+      "name": "Anita Borg",
       "email": "anita.borg@systers.xyz",
       "password": "$2a$10$gVkmcWdnwEBxXj2PWjuv9uDx7BfjiAobbabDAOrH2o8b1i3E7KwR.",
       "role": "admin",
       "id": 1
     },
     {
+      "name": "Grace Hopper",
       "email": "grace.hopper@systers.xyz",
       "password": "$2a$10$JABwR1UAtJqr2DCJ41ypMOgOqlh8eRXmTBO6DXfKG3ybxhABY4rey",
       "role": "admin",
       "id": 2
     },
     {
+      "name": "Nara Sakamoto",
       "email": "nara.sakamoto@laboratoria.la",
       "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
       "role": "admin",
       "id": 3
     },
     {
+      "name": "Giselle",
       "email": "atendimento@plantburguer.com",
       "password": "$2a$10$u7HG0nlRRQRN4qY3DvG3su4CLPILCQm4O0RcmXHQ5bx.zpXukrscm",
       "role": "atendimento",
       "id": 4
     },
     {
+      "name": "Melina",
       "email": "cozinha@plantburguer.com",
       "password": "$2a$10$nRpGzhHpYaGpg4ZSqV2Gx.INNahNeeDwKVMAfxC3SWyRqehAhktsm",
       "role": "cozinha",
       "id": 5
     },
     {
+      "name": "Talita",
       "email": "admin@plantburguer.com",
       "password": "$2a$10$FkekOJF3A0uz3IcDmx9YUOIPIzl60mtEixsajfj/9JL./hOQ0pYdS",
       "role": "admin",
