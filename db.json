@@ -9,7 +9,7 @@
           "name": "Café com leite",
           "price": 7,
           "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 1
         },
@@ -18,7 +18,7 @@
           "name": "Sanduíche de queijo",
           "price": 10,
           "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 2
         }
@@ -36,7 +36,7 @@
           "name": "Suco de fruta natural",
           "price": 7,
           "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/suco.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 1
         },
@@ -45,7 +45,7 @@
           "name": "Café americano",
           "price": 5,
           "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 1
         },
@@ -54,7 +54,7 @@
           "name": "Coxinha de jaca",
           "price": 5,
           "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/coxinha.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 2
         },
@@ -63,7 +63,7 @@
           "name": "Sanduíche de queijo",
           "price": 10,
           "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 2
         }
@@ -81,7 +81,7 @@
           "name": "Sanduíche de queijo",
           "price": 10,
           "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 1
         },
@@ -90,7 +90,7 @@
           "name": "Café americano",
           "price": 5,
           "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 2
         },
@@ -99,7 +99,7 @@
           "name": "Coxinha de jaca",
           "price": 5,
           "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/coxinha.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 1
         },
@@ -108,7 +108,7 @@
           "name": "Suco de fruta natural",
           "price": 7,
           "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/suco.png",
-          "type": "Desayuno",
+          "type": "café da manhã",
           "dateEntry": "2022-03-05 15:14:10",
           "quantidade": 1
         }
@@ -124,7 +124,7 @@
       "name": "Sanduíche de queijo",
       "price": 10,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
-      "type": "Desayuno",
+      "type": "café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -132,7 +132,7 @@
       "name": "Coxinha de jaca",
       "price": 5,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/coxinha.png",
-      "type": "Desayuno",
+      "type": "café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -140,7 +140,7 @@
       "name": "Café americano",
       "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Desayuno",
+      "type": "café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -148,7 +148,7 @@
       "name": "Café com leite",
       "price": 7,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/coffee.png",
-      "type": "Desayuno",
+      "type": "café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -156,7 +156,7 @@
       "name": "Suco de fruta natural",
       "price": 7,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/suco.png",
-      "type": "Desayuno",
+      "type": "café da manhã",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -164,7 +164,7 @@
       "name": "Hamburguer simples",
       "price": 10,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/hb-duplo.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -172,7 +172,7 @@
       "name": "Hamburguer duplo",
       "price": 15,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/hb-simples.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -180,7 +180,7 @@
       "name": "Batata frita",
       "price": 15,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/batata.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -188,7 +188,7 @@
       "name": "Anéis de cebola",
       "price": 15,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/cebola.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -196,7 +196,7 @@
       "name": "Água 500ml",
       "price": 5,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -204,7 +204,7 @@
       "name": "Água 750ml",
       "price": 7,
       "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/water.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -212,7 +212,7 @@
       "name": "Refrigerante 500ml",
       "price": 15,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/refri500.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     },
     {
@@ -220,7 +220,7 @@
       "name": "Refrigerante 750ml",
       "price": 15,
       "image": "https://raw.githubusercontent.com/osikmelina/burger-queen-api-mock/main/img/refri750.png",
-      "type": "Almuerzo",
+      "type": "almoço e jantar",
       "dateEntry": "2022-03-05 15:14:10"
     }
   ],
